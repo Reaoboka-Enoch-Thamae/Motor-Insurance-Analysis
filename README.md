@@ -65,9 +65,7 @@ Assessed whether daily claim counts from 365 days of portfolio data follow a Poi
 │   ├── umu_motor_portfolio_2025.csv       # 1,200-policy motor portfolio
 │   └── umu_daily_claim_counts_2025.csv    # 365 days of daily claim counts
 ├── code/
-│   ├── Problem1_PCA.R
-│   ├── Problem2_ChiSquare.R
-│   └── Problem3_Poisson.R
+│   ├── STAT1011Y_Assignment.R
 └── report/
     └── STAT1011Y_Assignment_2025.pdf
 ```
@@ -77,7 +75,8 @@ Assessed whether daily claim counts from 365 days of portfolio data follow a Poi
 ## Authors
 
 Bhaavika Ramlugun — BSc (Hons) Actuarial Studies, University of Mauritius
+Kirpal Vaiydehi — BSc (Hons) Actuarial Studies, University of Mauritius
 Reaoboka Enoch Thamae — BSc (Hons) Actuarial Studies, University of Mauritius
 Reenela — BSc (Hons) Actuarial Studies, University of Mauritius
 Vaishavi — BSc (Hons) Actuarial Studies, University of Mauritius
-Kirpal Vaiydehi — BSc (Hons) Actuarial Studies, University of Mauritius
+
