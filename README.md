@@ -78,5 +78,5 @@ Bhaavika Ramlugun — BSc (Hons) Actuarial Studies, University of Mauritius
 Kirpal Vaiydehi — BSc (Hons) Actuarial Studies, University of Mauritius
 Reaoboka Enoch Thamae — BSc (Hons) Actuarial Studies, University of Mauritius
 Reenela Ramasawmy — BSc (Hons) Actuarial Studies, University of Mauritius
-Vaishavi — BSc (Hons) Actuarial Studies, University of Mauritius
+Seethiah Vaishavi — BSc (Hons) Actuarial Studies, University of Mauritius
 
