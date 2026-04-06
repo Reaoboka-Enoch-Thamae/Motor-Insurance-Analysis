@@ -77,6 +77,6 @@ Assessed whether daily claim counts from 365 days of portfolio data follow a Poi
 Bhaavika Ramlugun — BSc (Hons) Actuarial Studies, University of Mauritius
 Kirpal Vaiydehi — BSc (Hons) Actuarial Studies, University of Mauritius
 Reaoboka Enoch Thamae — BSc (Hons) Actuarial Studies, University of Mauritius
-Reenela — BSc (Hons) Actuarial Studies, University of Mauritius
+Reenela Ramasawmy — BSc (Hons) Actuarial Studies, University of Mauritius
 Vaishavi — BSc (Hons) Actuarial Studies, University of Mauritius
 
